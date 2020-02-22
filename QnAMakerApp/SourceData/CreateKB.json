@@ -1,0 +1,15 @@
+﻿{
+    "name": "QnA Maker FAQ",
+    "qnaList": [
+        {
+            "id": 0,
+            "answer": "It is Nice and Sunny",
+            "source": "Custom Editorial",
+            "questions": [
+                "How is the weather today?",
+                "How does it like today?"
+            ],
+            "metadata": []
+        }
+    ]
+}
